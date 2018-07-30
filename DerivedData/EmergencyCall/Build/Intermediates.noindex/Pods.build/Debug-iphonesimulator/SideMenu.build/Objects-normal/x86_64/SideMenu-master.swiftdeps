@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "ed3c9a01c51ea7c5614920b4525bbd21"
+build_time: [1527756871, 315304000]
+inputs:
+  "/Users/ubaid/Desktop/EmergencyCall/Pods/SideMenu/Pod/Classes/SideMenuManager.swift": [1527592936, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/Pods/SideMenu/Pod/Classes/SideMenuTransition.swift": [1527592936, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/Pods/SideMenu/Pod/Classes/UISideMenuNavigationController.swift": [1527592936, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/Pods/SideMenu/Pod/Classes/UITableViewVibrantCell.swift": [1527592936, 0]

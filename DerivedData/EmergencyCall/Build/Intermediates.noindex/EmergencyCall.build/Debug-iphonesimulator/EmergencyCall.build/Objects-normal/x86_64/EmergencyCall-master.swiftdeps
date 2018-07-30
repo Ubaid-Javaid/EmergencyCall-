@@ -1,0 +1,19 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "74bb13ea13ce5668b4349643e151462b"
+build_time: [1527756890, 592017000]
+inputs:
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/Continuewithmobile.swift": !dirty [1526363450, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/DesignView.swift": !dirty [1527140899, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/verifyNumber.swift": !dirty [1527324654, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/TextFieldDesign.swift": !dirty [1526106224, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/NavigationDraw.swift": !dirty [1527749281, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/Design.swift": !dirty [1525158541, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/ViewController.swift": !dirty [1526122164, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/AppDelegate.swift": !dirty [1526459420, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/ButtonDesign.swift": !dirty [1525172170, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/mapView2.swift": !dirty [1527755347, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/ViewDesign.swift": !dirty [1526891467, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/Mapkit.swift": !dirty [1527755343, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/DesignView1.swift": !dirty [1527140724, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/Mapview.swift": !dirty [1527501325, 0]
+  "/Users/ubaid/Desktop/EmergencyCall/EmergencyCall/PhoneNumber.swift": !dirty [1527149021, 0]
